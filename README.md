@@ -2,6 +2,7 @@
 <h3 align="center">A future Fullstack Developer</h3>
 <h4 align="center">Currently Junior Webmaster in Itaka and Computer Science Student on University of Opole</h4>
 <br><br>
+
 - 🌱 I’m currently learning **ASP.NET Core, React**
 
 - 👨‍💻 Currently: I'm working on my portfolio
