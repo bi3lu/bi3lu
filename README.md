@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET Core, React**
 
-- 👨‍💻 Currently: I'm working on my portfolio
+- 👨‍💻 I’m currently working on my **portfolio**
 
 - 📫 How to reach me **kuba.bielecki@outlook.com**
 
