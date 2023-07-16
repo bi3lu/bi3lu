@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Bielecki</h1>
-<h3 align="center">A future Fullstack Developer</h3>
+<h3 align="center">A future Fullstack Developer<br>Currently Junior Webmaster in Itaka and Computer Science Student on University of Opole</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core, React**
 
