@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+##👉 Hello! I'm a student at the University of Opole, passionate about becoming a full stack developer 👈
+
+🌱 I'm focused on honing my skills in ASP.NET Core and React technologies.
+🔭 Currently, I'm working on building my portfolio to showcase my projects and progress.
+📫 You can reach me on Linkedin: https://www.linkedin.com/in/jakub-tadeusz-bielecki-307383252/
+
 <!--
 **bi3lu/bi3lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
