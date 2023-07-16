@@ -7,6 +7,8 @@
 
 - 👨‍💻 I’m currently working on my **portfolio**
 
+- 🌐 I can communicate in Polish (native) and English (B2)
+
 - 📫 How to reach me **kuba.bielecki@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
