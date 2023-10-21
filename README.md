@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Bielecki</h1>
-<h3 align="center">Currently Junior Webmaster in Itaka and Computer Science Student on University of Opole</h3>
+<h3 align="center">Junior Webmaster in Itaka and Computer Science Student on University of Opole</h3>
 <br>
 
 - 🌱 I’m currently learning **Data Science**
