@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakub Bielecki</h1>
+<h1 align="center">Hi 👋, I am Jakub Bielecki</h1>
 <h3 align="center">Junior Webmaster in Itaka and Computer Science Student on University of Opole</h3>
 <br>
 
