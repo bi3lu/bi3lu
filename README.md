@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I am Jakub Bielecki</h1>
 <h3 align="center">Junior Webmaster in Itaka and Computer Science Student on University of Opole</h3>
 <br>
+
 - 🌐 I can communicate in Polish (native) and English (B2)
 
 - 📫 How to reach me **kuba.bielecki@outlook.com**
