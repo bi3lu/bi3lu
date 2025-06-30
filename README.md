@@ -2,7 +2,7 @@
 <h3 align="center">Webmaster in Itaka and Computer Science Engineer graduated in 2025 on University of Opole</h3>
 <br>
 
-- 🌐 I can communicate in Polish (native) and English (B2)
+- 🌐 I can communicate in Polish (native) and English (B2+)
 
 - 📫 How to reach me **kuba.bielecki@outlook.com**
 
