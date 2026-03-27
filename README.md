@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Jakub Bielecki</h1>
-<h3 align="center">AI Developer in Itaka and Computer Science Engineer graduated in 2025 on University of Opole</h3>
+<h3 align="center">AI Developer in Axabee and Computer Science Engineer graduated in 2025 on University of Opole</h3>
 <br>
 
 - 🌐 I can communicate in Polish (native) and English (B2+)
