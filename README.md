@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I am Jakub Bielecki</h1>
+<h1>Hi 👋, I am Jakub Bielecki</h1>
 
-<h2>AI Developer in Axabee and Computer Science Engineer graduated in 2025 on University of Opole</h2>
+<h3>AI Developer in Axabee and Computer Science Engineer graduated in 2025 on University of Opole</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
